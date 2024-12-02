@@ -8,6 +8,6 @@ Now, I’m a Research Engineer at Advanced Robotics Center & MathEXLab at NUS, t
 
 I'm diving deep into soft robotics, fluid dynamics, AI/ML and Deep Web. 
 
-Let's create something awesome together. ♡
+Let's create something awesome together. ;)
 
 
